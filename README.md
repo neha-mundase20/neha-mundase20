@@ -1,7 +1,11 @@
 
 ![](https://github.com/neha-mundase20/GIPHY/blob/main/ezgif.com-gif-maker.gif)
 
-#                         **Hi there 👋, This is Neha Mundase!**
+<p align="center">
+  
+#  **Hi there 👋, This is Neha Mundase!**
+  
+</p>
 
 
 ## ⦿I'm a Sophomore at International Institute of Information Technology , Pune.
