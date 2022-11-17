@@ -18,6 +18,6 @@
 - 📫 How to reach me: mundaseneha20@gmail.com 
 - 😄 Pronouns: She/Her 
 
-[![Neha's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=neha-mundase20&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/neha-mundase20/github-readme-stats#gh-dark-mode-only)
+[![Neha's GitHub stats]](https://github-readme-stats.vercel.app/api?username=neha-mundase20&theme=radical&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neha-mundase20)](https://github.com/neha-mundase20/github-readme-stats)
