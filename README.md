@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Hello People ! This is Neha Mundase.
+### Hi there 👋 This is Neha Mundase.
 
 
 ⦿I'm a Sophmore at International Institute of Information Technology , Pune.
