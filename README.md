@@ -6,7 +6,7 @@
 
 ## ⦿I'm a Sophmore at International Institute of Information Technology , Pune.
 
-## ⦿I'm always eager to explore about various developments in the technological aspects!
+## ⦿I'm always eager to explore about various developments in the technological aspects😊!
 
 ### Skills: Python, C , C++ & Java programming languages.
 
