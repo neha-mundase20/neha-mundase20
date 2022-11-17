@@ -1,6 +1,8 @@
-##### Hi there 👋, This is Neha Mundase.
 
 ![](https://github.com/neha-mundase20/GIPHY/blob/main/ezgif.com-gif-maker.gif)
+
+##### Hi there 👋, This is Neha Mundase.
+
 
 ⦿I'm a Sophmore at International Institute of Information Technology , Pune.
 
