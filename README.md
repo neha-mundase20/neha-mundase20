@@ -1,6 +1,6 @@
 ##### Hi there 👋, This is Neha Mundase.
 
-![](https://github.com/neha-mundase20/GIPHY/blob/main/Black%20And%20Gold%20Minimal%20Motivational%20Quote%20Reminder%20Instagram%20Post.gif)
+![](https://github.com/neha-mundase20/GIPHY/blob/main/ezgif.com-gif-maker.gif)
 
 ⦿I'm a Sophmore at International Institute of Information Technology , Pune.
 
