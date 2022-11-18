@@ -19,9 +19,9 @@
 
 
 
-- 🌱 I’m currently learning Android Application Development using Kotlin. 
-- 📫 How to reach me: mundaseneha20@gmail.com 
-- 😄 Pronouns: She/Her 
+### - 🌱 I’m currently learning Android Application Development using Kotlin. 
+### - 📫 How to reach me: mundaseneha20@gmail.com 
+### - 😄 Pronouns: She/Her 
 
 [![Neha's GitHub stats](https://github-readme-stats.vercel.app/api?username=neha-mundase20&theme=codeSTACKr&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
