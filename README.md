@@ -15,7 +15,7 @@
 ### Skills: Python, C , C++ & Java programming languages.
 
 
-![](https://github.com/neha-mundase20/GIPHY/blob/main/image_processing20210301-3601-w1fbuc.gif)
+![](https://github.com/neha-mundase20/GIPHY/blob/main/ezgif.com-gif-maker_programming.gif)
 
 
 - 🌱 I’m currently learning Android Application Development using Kotlin. 
