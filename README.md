@@ -15,8 +15,6 @@
 ### Skills: Python, C , C++ & Java programming languages.
 
 
-![](https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif)
-
 - 🌱 I’m currently learning Android Application Development using Kotlin. 
 - 📫 How to reach me: mundaseneha20@gmail.com 
 - 😄 Pronouns: She/Her 
