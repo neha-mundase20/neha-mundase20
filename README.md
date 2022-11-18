@@ -15,7 +15,7 @@
 ### Skills: Python, C , C++ & Java programming languages.
 
 
-<img align="right" width="100" height="100" src="https://github.com/neha-mundase20/GIPHY/blob/main/ezgif.com-gif-maker_programming.gif">
+<img align="right" width="300" height="300" src="https://github.com/neha-mundase20/GIPHY/blob/main/ezgif.com-gif-maker_programming.gif">
 
 
 
