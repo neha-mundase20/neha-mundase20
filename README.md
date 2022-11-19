@@ -32,6 +32,6 @@
 # ✨  PARTICIPATIONS  ✨
 
 ### HACKTOBERFEST-2022
-###(This one's all about contributing to the opensource!)
+### (This one's all about contributing to the opensource!)
 
 [![@nmundase's Holopin board](https://holopin.me/nmundase)](https://holopin.io/@nmundase)
