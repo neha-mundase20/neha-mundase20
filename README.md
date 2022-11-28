@@ -29,6 +29,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neha-mundase20&theme=codeSTACKr&show_icons=true)](https://github.com/neha-mundase20/github-readme-stats)
 
+# CONNECT WITH ME
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+
+
 # ✨  PARTICIPATIONS  ✨
 
 ### HACKTOBERFEST-2022
