@@ -25,18 +25,23 @@
 
 # 🚩  GITHUB STATS  🚩
 
+
+
 [![Neha's GitHub stats](https://github-readme-stats.vercel.app/api?username=neha-mundase20&theme=codeSTACKr&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neha-mundase20&theme=codeSTACKr&show_icons=true)](https://github.com/neha-mundase20/github-readme-stats)
 
-# CONNECT WITH ME  
-![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)[1]
-![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)[2]
-![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)[3]
+[![Neha's github streak](https://github-readme-streak-stats.herokuapp.com/?user=neha-mundase20&theme=blue-green)](https://github.com/neha-mundase20/github-readme-streak-stats)
 
-[1]: 
-[2]: https://github.com/neha-mundase20/neha-mundase20/blob/main/README.md
+# CONNECT WITH ME  
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][1] 
+[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][2]
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][3]
+
+[1]: https://mail.google.com/
+[2]: https://github.com/neha-mundase20
 [3]: https://www.linkedin.com/in/neha-mundase-2387a4229
+
 
 
 
@@ -46,3 +51,6 @@
 ### (This one's all about contributing to the opensource!)
 
 [![@nmundase's Holopin board](https://holopin.me/nmundase)](https://holopin.io/@nmundase)
+
+
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
