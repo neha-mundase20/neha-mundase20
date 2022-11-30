@@ -12,7 +12,8 @@
 
 ## ⦿I'm always eager to explore about various developments in the technological aspects😊!
 
-### Skills: Python, C , C++ & Java programming languages.
+### Skills: ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)   ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)   ![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)   ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)  ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)  ![](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+
 
 
 <img align="right" width="350" height="400" src="https://github.com/neha-mundase20/GIPHY/blob/main/ezgif.com-gif-maker_programming.gif">
@@ -24,8 +25,6 @@
 ### - 😄 Pronouns: She/Her 
 
 # 🚩  GITHUB STATS  🚩
-
-
 
 [![Neha's GitHub stats](https://github-readme-stats.vercel.app/api?username=neha-mundase20&theme=codeSTACKr&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
