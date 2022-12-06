@@ -32,6 +32,9 @@
 
 [![Neha's github streak](https://github-readme-streak-stats.herokuapp.com/?user=neha-mundase20&theme=blue-green)](https://github.com/neha-mundase20/github-readme-streak-stats)
 
+[![Neha's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neha-mundase20&layout=compact&theme=codeSTACKr&show_icons=true)](https://github.com/neha-mundase20/github-readme-stats)
+
+
 # CONNECT WITH ME  
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][1] 
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][2]
@@ -52,4 +55,4 @@
 [![@nmundase's Holopin board](https://holopin.me/nmundase)](https://holopin.io/@nmundase)
 
 
-[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+![](https://komarev.com/ghpvc/?username=neha-mundase20&style=flat)  [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
