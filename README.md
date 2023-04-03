@@ -20,7 +20,7 @@
 
 
 
-### - 🌱 I’m currently learning Android Application Development using Kotlin. I have a good hand over C++ and JAVA programming languages.
+### - 🌱 I’m currently learning Android Application Development using Kotlin.I have also worked with Jetpack Compose. I have a good hand over C++ and JAVA programming languages.
 ### - 📫 How to reach me: mundaseneha20@gmail.com 
 ### - 😄 Pronouns: She/Her 
 
