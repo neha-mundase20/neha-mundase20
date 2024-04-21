@@ -30,7 +30,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neha-mundase20&theme=codeSTACKr&show_icons=true)](https://github.com/neha-mundase20/github-readme-stats)
 
-[![Neha's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=neha-mundase20&custom_title=This%20is%20Neha's%20contribution%20graph&theme=github&hide_border=true)](https://github.com/neha-mundase20/github-readme-activity-graph)
+![Leetcode Stats](https://leetcard.jacoblin.cool/neha-mundase20)
 
 [![Neha's github streak](https://github-readme-streak-stats.herokuapp.com/?user=neha-mundase20&theme=blue-green)](https://github.com/neha-mundase20/github-readme-streak-stats)
 
