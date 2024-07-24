@@ -21,8 +21,9 @@
 
 
 ### - 🌱 I’m currently learning Android Application Development using Kotlin.I have also worked with Jetpack Compose. I have a good hand over C++ and JAVA programming languages.
-### - 📫 How to reach me: mundaseneha20@gmail.com 
-### - 😄 Pronouns: She/Her 
+ 
+
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=neha-mundase20&animated=true" alt="LeetCode Badges"/>
 
 # 🚩  GITHUB STATS  🚩
 
@@ -46,16 +47,6 @@
 [3]: https://www.linkedin.com/in/neha-mundase-2387a4229
 [4]: https://twitter.com/NehaMundase
 
-
-
-
-
-# ✨  PARTICIPATIONS  ✨
-
-### HACKTOBERFEST-2022
-### (This one's all about contributing to the opensource!)
-
-[![@nmundase's Holopin board](https://holopin.me/nmundase)](https://holopin.io/@nmundase)
 
 
 ![](https://komarev.com/ghpvc/?username=neha-mundase20&style=flat)  [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
