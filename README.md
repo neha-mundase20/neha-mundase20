@@ -27,12 +27,12 @@
 
 # 🚩  GITHUB STATS  🚩
 
-[![Neha's GitHub stats](https://github-readme-stats.vercel.app/api?username=neha-mundase20&theme=codeSTACKr&show_icons=true)]([https://github.com/neha-mundase20/github-readme-stats])
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=neha-mundase20)](https://git.io/streak-stats)
-
-[![Neha's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neha-mundase20&layout=compact&theme=codeSTACKr&show_icons=true)](https://github.com/neha-mundase20/github-readme-stats)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neha-mundase20&theme=rose_pine)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=neha-mundase20&theme=rose_pine)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=neha-mundase20&theme=rose_pine)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=neha-mundase20&theme=rose_pine)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=neha-mundase20&theme=rose_pine&utcOffset=8)
 
 # CONNECT WITH ME  
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][1] 
